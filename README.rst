@@ -2,6 +2,8 @@
 cusp_edap2
 ==========
 
+.. image:: https://travis-ci.org/Elixeus/cusp_edap2.svg?branch=master
+         :target: https://travis-ci.org/Elixeus/cusp_edap2
 
 Add a short description here!
 
